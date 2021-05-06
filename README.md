@@ -6,6 +6,7 @@
 - Check out my...
   - 💼 LinkedIn: https://www.linkedin.com/in/alex-gui/
   - 🐳 Docker Hub: https://hub.docker.com/u/yummygooey
+  - 😻 Cat: https://www.instagram.com/hi_im_lemon/
 
 <!---
 alexgui/alexgui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
