@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexgui
 - 👀 I’m interested in over-engineering everything from beer cellars to computer vision pipelines
 - 🌱 I’m currently learning the limitations of COTS machine learning models
-- 💞️ I’m looking to collaborate all things embedded
+- 💞️ I’m looking to collaborate on all things embedded
 - Check out my...
   - 💼 LinkedIn: https://www.linkedin.com/in/alex-gui/
   - 🐳 Docker Hub: https://hub.docker.com/u/yummygooey
